@@ -20,11 +20,11 @@ from aiogram.fsm.state import State, StatesGroup
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-BOT_TOKEN    = "7822285527:AAFbwNP_b3c69HCm7GXNDiYhq3bD5TmwI9Q"   # ← замени
-MINI_APP_URL = "https://YOUR_DOMAIN.com"                             # ← замени
+BOT_TOKEN    = "8311955431:AAHNZ2_4Db0VZZNFUYGQMaS7NzNaNjhgaxY"   # ← замени
+MINI_APP_URL = "https://formboost.onrender.com"                             # ← замени
 ADMIN_ID     = 123456789                                              # ← замени свой telegram id
-KASPI_CARD   = "4400 4301 XXXX XXXX"                                 # ← замени
-KASPI_NAME   = "Твоё Имя"                                            # ← замени
+KASPI_CARD   = "4400 4303 4396 2079"                                 # ← замени
+KASPI_NAME   = "Ислам И"                                            # ← замени
 DB_PATH      = "formboost.db"
 
 PACKAGES = {
